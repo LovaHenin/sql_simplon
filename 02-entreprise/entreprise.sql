@@ -7,7 +7,7 @@ DES
 
 -- ouvrir la concole sous MAMP : Applications > Utilitaires > Terminal et saisir :
 --        /Applications/MAMP/Library/bin/mysql -uroot -proot
-
+-- salut
 
 
 -- ****************************
