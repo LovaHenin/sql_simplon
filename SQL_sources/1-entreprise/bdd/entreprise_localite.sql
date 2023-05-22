@@ -14,3 +14,4 @@ INSERT INTO localite (id_localite, id_secteur, ville, chiffre_affaires) VALUES
 (3, 30, 'lyon', 377569),
 (4, 40, 'bordeaux', 350988),
 (5, 50, 'paris', 122689);
+/* test pull*/
